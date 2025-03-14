@@ -19,3 +19,4 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - JavaScript
 - Git e GitHub
 
+...
